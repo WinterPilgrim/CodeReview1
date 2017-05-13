@@ -1,4 +1,4 @@
-# IndependentProject# 
+ IndependentProject# 
 
 #### _A landing page for my future portfolio of coding projects created at Epicodus. This page illistrates basic Bootstrap, Css, and HTML concepts learned during the first four weeks of the evening part-time class, May 2017.
 
