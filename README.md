@@ -25,7 +25,7 @@ Some conflicts between custom CSS styles and Bootstrap, however, these were left
 Laura Greene, walksinwinter@gmail.com
 
 ## Link 
-(https://winterpilgrim.github.io/CodeReview1/)
+https://winterpilgrim.github.io/CodeReview1/
 
 
 
